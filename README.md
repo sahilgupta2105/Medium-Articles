@@ -1,1 +1,1 @@
-# Machine Learning projects
+# Code for my Medium blogs
